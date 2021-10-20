@@ -1,0 +1,21 @@
+e:\Nitin Mohan Pingulkar Jewellers\Nitin Mohan Pingulkar Jewellers\bin\Debug\Nitin Mohan Pingulkar Jewellers.exe
+e:\Nitin Mohan Pingulkar Jewellers\Nitin Mohan Pingulkar Jewellers\bin\Debug\Nitin Mohan Pingulkar Jewellers.pdb
+e:\Nitin Mohan Pingulkar Jewellers\Nitin Mohan Pingulkar Jewellers\obj\x86\Debug\Nitin_Mohan_Pingulkar_Jewellers.Login.resources
+e:\Nitin Mohan Pingulkar Jewellers\Nitin Mohan Pingulkar Jewellers\obj\x86\Debug\Nitin_Mohan_Pingulkar_Jewellers.Properties.Resources.resources
+e:\Nitin Mohan Pingulkar Jewellers\Nitin Mohan Pingulkar Jewellers\obj\x86\Debug\Nitin Mohan Pingulkar Jewellers.csproj.GenerateResource.Cache
+e:\Nitin Mohan Pingulkar Jewellers\Nitin Mohan Pingulkar Jewellers\obj\x86\Debug\Nitin Mohan Pingulkar Jewellers.exe
+e:\Nitin Mohan Pingulkar Jewellers\Nitin Mohan Pingulkar Jewellers\obj\x86\Debug\Nitin Mohan Pingulkar Jewellers.pdb
+E:\Nitin Mohan Pingulkar Jewellers\Nitin Mohan Pingulkar Jewellers\obj\x86\Debug\Nitin_Mohan_Pingulkar_Jewellers.Forget_Passwd.resources
+E:\Nitin Mohan Pingulkar Jewellers\Nitin Mohan Pingulkar Jewellers\obj\x86\Debug\Nitin_Mohan_Pingulkar_Jewellers.Home.resources
+E:\Nitin Mohan Pingulkar Jewellers\Nitin Mohan Pingulkar Jewellers\obj\x86\Debug\Nitin_Mohan_Pingulkar_Jewellers.Log_details.resources
+E:\Nitin Mohan Pingulkar Jewellers\Nitin Mohan Pingulkar Jewellers\bin\Debug\Nitin Mohan Pingulkar Jewellers.exe.config
+E:\Nitin Mohan Pingulkar Jewellers\Nitin Mohan Pingulkar Jewellers\obj\x86\Debug\Nitin Mohan Pingulkar Jewellers.csprojResolveAssemblyReference.cache
+E:\Nitin Mohan Pingulkar Jewellers\Nitin Mohan Pingulkar Jewellers\obj\x86\Debug\Nitin_Mohan_Pingulkar_Jewellers.Richtext.resources
+E:\Nitin Mohan Pingulkar Jewellers\Nitin Mohan Pingulkar Jewellers\obj\x86\Debug\Nitin_Mohan_Pingulkar_Jewellers.Employee_Regs.resources
+E:\Nitin Mohan Pingulkar Jewellers\Nitin Mohan Pingulkar Jewellers\obj\x86\Debug\Nitin_Mohan_Pingulkar_Jewellers.Supplier_regs.resources
+E:\Nitin Mohan Pingulkar Jewellers\Nitin Mohan Pingulkar Jewellers\obj\x86\Debug\Nitin_Mohan_Pingulkar_Jewellers.Employee_Details.resources
+E:\Nitin Mohan Pingulkar Jewellers\Nitin Mohan Pingulkar Jewellers\obj\x86\Debug\Nitin_Mohan_Pingulkar_Jewellers.Prod_Regs.resources
+E:\Nitin Mohan Pingulkar Jewellers\Nitin Mohan Pingulkar Jewellers\obj\x86\Debug\Nitin_Mohan_Pingulkar_Jewellers.Prod_Details.resources
+E:\Nitin Mohan Pingulkar Jewellers\Nitin Mohan Pingulkar Jewellers\obj\x86\Debug\Nitin_Mohan_Pingulkar_Jewellers.Supplier_Details.resources
+E:\Nitin Mohan Pingulkar Jewellers\Nitin Mohan Pingulkar Jewellers\obj\x86\Debug\Nitin_Mohan_Pingulkar_Jewellers.Bill.resources
+E:\Nitin Mohan Pingulkar Jewellers\Nitin Mohan Pingulkar Jewellers\obj\x86\Debug\Nitin_Mohan_Pingulkar_Jewellers.Category_Regs.resources
